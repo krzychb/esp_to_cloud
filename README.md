@@ -8,6 +8,10 @@ The following cloud services are covered
 * [Keen IO](https://keen.io)
 
 
+## Build Status
+
+[![Build Status](https://travis-ci.org/krzychb/esp_to_cloud.svg?branch=master)](https://travis-ci.org/krzychb/esp_to_cloud)
+
 ## Contribute
 
 Feel free to contribute to the project in any way you like!
